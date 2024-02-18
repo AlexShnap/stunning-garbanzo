@@ -1,0 +1,2 @@
+host: imap.firstmail.ltd
+port: 993
